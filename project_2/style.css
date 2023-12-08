@@ -1,0 +1,26 @@
+
+/*
+applies for all , general
+
+* {
+    font-family: monospace;
+}
+*/
+
+body {
+    font-size: 22px;
+}
+
+p {
+    color: purple;
+}
+
+/* you can call class with using . (dot) */
+
+.gray {
+    color: gray;
+}
+
+h1 , h2 {
+    color: blue;
+}
